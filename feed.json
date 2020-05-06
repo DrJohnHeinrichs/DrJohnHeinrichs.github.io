@@ -1,0 +1,27 @@
+{
+    "title": "Huli Pizza",
+    "publisherName": "John Heinrichs",
+    "feedIdentifier": "io.github.DrJohnHeinrichs",
+    "contactURL": "mailto:ai2824@gmail.com",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "Pizza",
+            "overviewSubtitle": "Real Good Pizza",
+            "detailSubtitle": "Fundamentals of Pizza Making",
+            "description": "Pizza is Apple's high-performance rendering API.",
+            "difficultyLevel": "intermediate",
+            "contentIdentifier": "io.github.DrJohnHeinrichs",
+            "contentVersion": "1.0",
+            "url": "https://DrJohnHeinrichs.github.io/Huli2-Pizza-Proposal-JOHN.playgroundbook.zip",
+            "publishedDate": "2020-03-15T17:00:00+00:00",
+            "lastUpdatedDate": "2020-04-01T09:00:00+00:00",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [            ]
+        }
+}
