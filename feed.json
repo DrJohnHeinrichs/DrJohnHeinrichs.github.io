@@ -5,29 +5,6 @@
     "contactURL": "mailto:ai2824@gmail.com",
     "formatVersion": "1.0",
     "documents": [
-        {
-            "title": "Pizza",
-            "overviewSubtitle": "Reallll Goodddd Pizzaaaa",
-            "detailSubtitle": "Fundamentals of Pizza Making",
-            "description": "Pizza is Apple's high-performance rendering API.",
-            "difficultyLevel": "intermediate",
-            "contentIdentifier": "io.github.DrJohnHeinrichs.HuliPizzaProposal",
-            "contentVersion": "1.0",
-            "url": "https:\/\/DrJohnHeinrichs.github.io\/HuliPizzaProposalJOHN.playgroundbook.zip",
-            "publishedDate": "2020-03-15T17:00:00+00:00",
-            "lastUpdatedDate": "2020-04-01T09:00:00+00:00",
-            "thumbnailURL": "cognitiveCX.png",
-            "bannerImageURL": "NZN-Trends.png",
-            "additionalInformation": [
-                {
-                    "name": "Languages",
-                    "value": "English"
-                }
-            ],
-            "previewImageURLs": [
-                "NZN-Trends.png"
-            ]
-        },
                 {
             "title": "BI Analytic",
             "overviewSubtitle": "Chapter 4 and 5",
@@ -49,6 +26,29 @@
             ],
             "previewImageURLs": [
                 "cognitiveCX.png"
+            ]
+        },
+                {
+            "title": "Pizza",
+            "overviewSubtitle": "Reallll Goodddd Pizzaaaa",
+            "detailSubtitle": "Fundamentals of Pizza Making",
+            "description": "Pizza is Apple's high-performance rendering API.",
+            "difficultyLevel": "intermediate",
+            "contentIdentifier": "io.github.DrJohnHeinrichs.HuliPizzaProposal",
+            "contentVersion": "1.0",
+            "url": "https:\/\/DrJohnHeinrichs.github.io\/HuliPizzaProposalJOHN.playgroundbook.zip",
+            "publishedDate": "2020-03-15T17:00:00+00:00",
+            "lastUpdatedDate": "2020-04-01T09:00:00+00:00",
+            "thumbnailURL": "cognitiveCX.png",
+            "bannerImageURL": "NZN-Trends.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "NZN-Trends.png"
             ]
         }
                 ]
