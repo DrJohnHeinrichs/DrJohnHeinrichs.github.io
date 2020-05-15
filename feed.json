@@ -1,5 +1,5 @@
 {
-    "title": "Huli Pizza",
+    "title": "Huli Pizza and Chapter 4 and 5",
     "publisherName": "John Heinrichs",
     "feedIdentifier": "io.github.DrJohnHeinrichs",
     "contactURL": "mailto:ai2824@gmail.com",
@@ -16,6 +16,29 @@
             "url": "https:\/\/DrJohnHeinrichs.github.io\/HuliPizzaProposalJOHN.playgroundbook.zip",
             "publishedDate": "2020-03-15T17:00:00+00:00",
             "lastUpdatedDate": "2020-04-01T09:00:00+00:00",
+            "thumbnailURL": "cognitiveCX.png",
+            "bannerImageURL": "cognitiveCX.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "cognitiveCX.png"
+            ]
+        },
+                {
+            "title": "BI Analytic",
+            "overviewSubtitle": "Chapter 4 and 5",
+            "detailSubtitle": "Big Data and Analytics",
+            "description": "BI Analytics is cool is Apple's high-performance rendering API.",
+            "difficultyLevel": "intermediate",
+            "contentIdentifier": "io.github.DrJohnHeinrichs.AIAnalytics",
+            "contentVersion": "1.0",
+            "url": "https:\/\/DrJohnHeinrichs.github.io\/AIAnalytics.playgroundbook.zip",
+            "publishedDate": "2020-03-18T17:00:00+00:00",
+            "lastUpdatedDate": "2020-04-08T09:00:00+00:00",
             "thumbnailURL": "cognitiveCX.png",
             "bannerImageURL": "cognitiveCX.png",
             "additionalInformation": [
