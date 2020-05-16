@@ -25,7 +25,7 @@
                 }
             ],
             "previewImageURLs": [
-                "cognitiveCX.png"
+                "BookPreview.png"
             ]
         },
                 {
@@ -40,7 +40,7 @@
             "publishedDate": "2020-03-15T17:00:00+00:00",
             "lastUpdatedDate": "2020-04-01T09:00:00+00:00",
             "thumbnailURL": "cognitiveCX.png",
-            "bannerImageURL": "NZN-Trends.png",
+            "bannerImageURL": "Ch456.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
