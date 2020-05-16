@@ -9,15 +9,15 @@
             "title": "Chapters 4, 5, 6",
             "overviewSubtitle": "Chapters 4, 5, & 6",
             "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
-            "description": "Chapter 4: Visualization Tools for Marketing Environment Analytics; Chapter 5: Clustering Tools for Market Segment Analytics; Chapter 6 – Classification Tools for Market Targeting Analytics",
+            "description": "Chapter 4: Visualization Tools for Marketing Environment Analytics; \nChapter 5: Clustering Tools for Market Segment Analytics; \nChapter 6 – Classification Tools for Market Targeting Analytics",
             "difficultyLevel": "intermediate",
-            "contentIdentifier": "io.github.DrJohnHeinrichs.AIDrivenAnalytics",
+            "contentIdentifier": "io.github.DrJohnHeinrichs.AIDrivenAnalyticsCh456",
             "contentVersion": "1.0",
             "url": "https:\/\/DrJohnHeinrichs.github.io\/AIAnalytics.playgroundbook.zip",
             "publishedDate": "2020-04-18T17:00:00+00:00",
             "lastUpdatedDate": "2020-05-08T09:00:00+00:00",
             "thumbnailURL": "NZN-Trends.png",
-            "bannerImageURL": "Ch456.jpg",
+            "bannerImageURL": "Ch456.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
