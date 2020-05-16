@@ -1,15 +1,15 @@
 {
-    "title": "Huli Pizza and Chapter 444 and 555",
-    "publisherName": "John Heinrichs",
+    "title": "Big Data and AI Driven Marketing Analytics",
+    "publisherName": "Jeen-Su Lim; John Heinrichs",
     "feedIdentifier": "io.github.DrJohnHeinrichs",
     "contactURL": "mailto:ai2824@gmail.com",
     "formatVersion": "1.0",
     "documents": [
                 {
-            "title": "BI 2 Analytic",
-            "overviewSubtitle": "Chapter 444 and 555",
-            "detailSubtitle": "Big Data and Analytics",
-            "description": "BI Analytics is cool is Apple's high-performance rendering API.",
+            "title": "Chapters 4, 5, 6",
+            "overviewSubtitle": "Chapters 4, 5, & 6",
+            "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
+            "description": "Chapter 4: Visualization Tools for Marketing Environment Analytics; Chapter 5: Clustering Tools for Market Segment Analytics; Chapter 6 – Classification Tools for Market Targeting Analytics",
             "difficultyLevel": "intermediate",
             "contentIdentifier": "io.github.DrJohnHeinrichs.AIDrivenAnalytics",
             "contentVersion": "1.0",
