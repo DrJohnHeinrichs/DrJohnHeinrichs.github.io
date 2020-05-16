@@ -16,16 +16,18 @@
             "url": "https:\/\/DrJohnHeinrichs.github.io\/AIAnalytics.playgroundbook.zip",
             "publishedDate": "2020-04-18T17:00:00+00:00",
             "lastUpdatedDate": "2020-05-08T09:00:00+00:00",
-            "thumbnailURL": "cognitiveCX.png",
+            "thumbnailURL": "BD-AI-MD-400by300.png",
             "bannerImageURL": "Ch456.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
-                    "value": "English"
+                    "value": "English",
+                    "name": "Course",
+                    "value": "ISM 7505: Analytics"
                 }
             ],
             "previewImageURLs": [
-                "BookPreview.png"
+                "Ch456.png"
             ]
         },
                 {
