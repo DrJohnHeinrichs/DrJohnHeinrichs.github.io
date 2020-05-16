@@ -39,6 +39,72 @@
             ]
         },
                 {
+            "title": "Chapters 7, 8, 9",
+            "overviewSubtitle": "Analytic Tools",
+            "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
+            "description": "Chapter 7: Logistic Regression and Forecasting Tools for Customer Behavior Analytics; \nChapter 8: Market Basket Analysis for CRM Analytics; \nChapter 9: Chapter 9 – Conjoint Analysis for New Product Design and Development Analytics",
+            "difficultyLevel": "intermediate",
+            "contentIdentifier": "io.github.DrJohnHeinrichs.AIDrivenAnalyticsCh789",
+            "contentVersion": "1.0",
+            "url": "https:\/\/DrJohnHeinrichs.github.io\/AIAnalytics789.playgroundbook.zip",
+            "publishedDate": "2020-04-18T17:00:00+00:00",
+            "lastUpdatedDate": "2020-05-08T09:00:00+00:00",
+            "thumbnailURL": "BD-AI-MD-400by300.png",
+            "bannerImageURL": "Ch456.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                },
+                {
+                    "name": "Copyright",
+                    "value": "2020"
+                },
+                {
+                    "name": "Course",
+                    "value": "ISM 7505: Analytics"
+                }
+            ],
+            "previewImageURLs": [
+                "Ch4.png",
+                "Ch5.png",
+                "Ch6.png"
+            ]
+        },
+                {
+            "title": "Chapters 10, 11, 12 , 13",
+            "overviewSubtitle": "Analytic Tools",
+            "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
+            "description": "Chapter 10: Uplift Modeling Tools for Integrative Marketing Communication Analytics; \nChapter 11: Text Mining Tools for Post-Purchase Behavior Analytics; \nChapter 12: Chapter 12 – Digital Marketing Site Analytics; \nChapter 13: Digital Marketing Content and User Interactivity Analytics",
+            "difficultyLevel": "intermediate",
+            "contentIdentifier": "io.github.DrJohnHeinrichs.AIDrivenAnalyticsCh10111213",
+            "contentVersion": "1.0",
+            "url": "https:\/\/DrJohnHeinrichs.github.io\/AIAnalytics10111213.playgroundbook.zip",
+            "publishedDate": "2020-04-18T17:00:00+00:00",
+            "lastUpdatedDate": "2020-05-08T09:00:00+00:00",
+            "thumbnailURL": "BD-AI-MD-400by300.png",
+            "bannerImageURL": "Ch456.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                },
+                {
+                    "name": "Copyright",
+                    "value": "2020"
+                },
+                {
+                    "name": "Course",
+                    "value": "ISM 7505: Analytics"
+                }
+            ],
+            "previewImageURLs": [
+                "Ch4.png",
+                "Ch5.png",
+                "Ch6.png"
+            ]
+        },
+                {
             "title": "Pizza",
             "overviewSubtitle": "Reallll Goodddd Pizzaaaa",
             "detailSubtitle": "Fundamentals of Pizza Making",
