@@ -6,6 +6,38 @@
     "formatVersion": "1.0",
     "documents": [
                 {
+            "title": "Chapters 1, 2, 3",
+            "overviewSubtitle": "Analytic Tools",
+            "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
+            "description": "Chapter 1: ; \nChapter 2: ; \nChapter 3: ",
+            "difficultyLevel": "intermediate",
+            "contentIdentifier": "io.github.DrJohnHeinrichs.AIDrivenAnalyticsCh123",
+            "contentVersion": "1.0",
+            "url": "https:\/\/DrJohnHeinrichs.github.io\/AIAnalytics123.playgroundbook.zip",
+            "publishedDate": "2020-04-18T17:00:00+00:00",
+            "lastUpdatedDate": "2020-05-08T09:00:00+00:00",
+            "thumbnailURL": "BD-AI-MD-400by300.png",
+            "bannerImageURL": "Ch456.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                },
+                {
+                    "name": "Copyright",
+                    "value": "2020"
+                },
+                {
+                    "name": "Course",
+                    "value": "ISM 7505: Analytics"
+                }
+            ],
+            "previewImageURLs": [
+                "Ch4.png",
+                "Ch5.png",
+                "Ch6.png"
+            ]
+        },                {
             "title": "Chapters 4, 5, 6",
             "overviewSubtitle": "Analytic Tools",
             "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
@@ -103,29 +135,6 @@
                 "Ch5.png",
                 "Ch6.png"
             ]
-        },
-                {
-            "title": "Pizza",
-            "overviewSubtitle": "Reallll Goodddd Pizzaaaa",
-            "detailSubtitle": "Fundamentals of Pizza Making",
-            "description": "Pizza is Apple's high-performance rendering API.",
-            "difficultyLevel": "intermediate",
-            "contentIdentifier": "io.github.DrJohnHeinrichs.HuliPizzaProposal",
-            "contentVersion": "1.0",
-            "url": "https:\/\/DrJohnHeinrichs.github.io\/HuliPizzaProposalJOHN.playgroundbook.zip",
-            "publishedDate": "2020-03-15T17:00:00+00:00",
-            "lastUpdatedDate": "2020-04-01T09:00:00+00:00",
-            "thumbnailURL": "cognitiveCX.png",
-            "bannerImageURL": "Ch456.png",
-            "additionalInformation": [
-                {
-                    "name": "Languages",
-                    "value": "English"
-                }
-            ],
-            "previewImageURLs": [
-                "NZN-Trends.png"
-            ]
         }
-                ]
+     ]
 }
