@@ -24,6 +24,10 @@
                     "value": "English"
                 },
                 {
+                    "name": "Copyright",
+                    "value": "2020"
+                },
+                {
                     "name": "Course",
                     "value": "ISM 7505: Analytics"
                 }
