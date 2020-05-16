@@ -21,13 +21,17 @@
             "additionalInformation": [
                 {
                     "name": "Languages",
-                    "value": "English",
+                    "value": "English"
+                },
+                {
                     "name": "Course",
                     "value": "ISM 7505: Analytics"
                 }
             ],
             "previewImageURLs": [
-                "Ch456.png"
+                "Ch4.png",
+                "Ch5.png",
+                "Ch6.png"
             ]
         },
                 {
