@@ -7,7 +7,7 @@
     "documents": [
                 {
             "title": "Chapters 1, 2, 3",
-            "overviewSubtitle": "Analytic Tools",
+            "overviewSubtitle": "Analytic Framework",
             "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
             "description": "Chapter 1: Business Analytics for Professionals; \nChapter 2: Conceptual Framework of Business Analytics; \nChapter 3: Marketing Analytics for Marketing Decision-Making",
             "difficultyLevel": "intermediate",
@@ -29,13 +29,21 @@
                 },
                 {
                     "name": "Course",
-                    "value": "ISM 7505: Analytics"
+                    "value": "ISM 7505: Inbound In"
+                },
+                {
+                    "name": "Printed Book",
+                    "value": "https://www.amazon.com/Big-Data-Driven-Marketing-Analytics-ebook/dp/B084GBDHWP"
+                },
+                {
+                    "name": "Printed Length",
+                    "value": "331 pages"
                 }
             ],
             "previewImageURLs": [
-                "Ch4.png",
-                "Ch5.png",
-                "Ch6.png"
+                "Ch1.png",
+                "Ch2.png",
+                "Ch3.png"
             ]
         },                {
             "title": "Chapters 4, 5, 6",
@@ -61,7 +69,15 @@
                 },
                 {
                     "name": "Course",
-                    "value": "ISM 7505: Analytics"
+                    "value": "ISM 7505: Inbound In"
+                },
+                {
+                    "name": "Printed Book",
+                    "value": "https://www.amazon.com/Big-Data-Driven-Marketing-Analytics-ebook/dp/B084GBDHWP"
+                },
+                {
+                    "name": "Printed Length",
+                    "value": "331 pages"
                 }
             ],
             "previewImageURLs": [
@@ -72,7 +88,7 @@
         },
                 {
             "title": "Chapters 7, 8, 9",
-            "overviewSubtitle": "Analytic Tools",
+            "overviewSubtitle": "Analysis Techniques",
             "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
             "description": "Chapter 7: Logistic Regression and Forecasting Tools for Customer Behavior Analytics; \nChapter 8: Market Basket Analysis for CRM Analytics; \nChapter 9: Conjoint Analysis for New Product Design and Development Analytics",
             "difficultyLevel": "intermediate",
@@ -94,18 +110,26 @@
                 },
                 {
                     "name": "Course",
-                    "value": "ISM 7505: Analytics"
+                    "value": "ISM 7505: Inbound In"
+                },
+                {
+                    "name": "Printed Book",
+                    "value": "https://www.amazon.com/Big-Data-Driven-Marketing-Analytics-ebook/dp/B084GBDHWP"
+                },
+                {
+                    "name": "Printed Length",
+                    "value": "331 pages"
                 }
             ],
             "previewImageURLs": [
-                "Ch4.png",
-                "Ch5.png",
-                "Ch6.png"
+                "Ch7.png",
+                "Ch8.png",
+                "Ch9.png"
             ]
         },
                 {
-            "title": "Chapters 10, 11, 12 , 13",
-            "overviewSubtitle": "Analytic Tools",
+            "title": "Chapters 10, 11, 12, 13",
+            "overviewSubtitle": "Content and Site Analytics",
             "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
             "description": "Chapter 10: Uplift Modeling Tools for Integrative Marketing Communication Analytics; \nChapter 11: Text Mining Tools for Post-Purchase Behavior Analytics; \nChapter 12: Digital Marketing Site Analytics; \nChapter 13: Digital Marketing Content and User Interactivity Analytics",
             "difficultyLevel": "intermediate",
@@ -127,13 +151,22 @@
                 },
                 {
                     "name": "Course",
-                    "value": "ISM 7505: Analytics"
+                    "value": "ISM 7505: Inbound In"
+                },
+                {
+                    "name": "Printed Book",
+                    "value": "https://www.amazon.com/Big-Data-Driven-Marketing-Analytics-ebook/dp/B084GBDHWP"
+                },
+                {
+                    "name": "Printed Length",
+                    "value": "331 pages"
                 }
             ],
             "previewImageURLs": [
-                "Ch4.png",
-                "Ch5.png",
-                "Ch6.png"
+                "Ch10.png",
+                "Ch11.png",
+                "Ch12.png",
+                "Ch13.png"
             ]
         }
      ]
