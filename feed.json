@@ -9,7 +9,7 @@
             "title": "AI Driven-Ch 1,2,3",
             "overviewSubtitle": "Analytic Framework",
             "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
-            "description": "This first part provides an introduction to business analytics",
+            "description": "This first part provides an introduction to business analytics, big data, and the application of big data for marketing decisions.  A novel big data and AI driven marketing analytics process model is presented and its step-by-step stages are described in detail.  This new marketing analytics process model forms the foundation of this book.  /n/nChapter 1: Business Analytics for Professionals; \nChapter 2: Conceptual Framework of Business Analytics; \nChapter 3: Marketing Analytics for Marketing Decision-Making",
             "difficultyLevel": "intermediate",
             "contentIdentifier": "io.github.DrJohnHeinrichs.AIDrivenAnalyticsCh123",
             "contentVersion": "1.0",
@@ -22,6 +22,18 @@
                 {
                     "name": "Languages",
                     "value": "English"
+                },
+                {
+                    "name": "Copyright",
+                    "value": "2020"
+                },
+                {
+                    "name": "Identifier",
+                    "value": "ISBN 978-1-7345382-0-5 (eBook) / ISBN 978-1-7345382-1-2 (Paperback)"
+                },
+                {
+                    "name": "Printed Book",
+                    "value": "https://www.amazon.com/Big-Data-Driven-Marketing-Analytics-ebook/dp/B084GBDHWP"
                 },
                 {
                     "name": "Printed Length",
