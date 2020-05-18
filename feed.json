@@ -6,11 +6,11 @@
     "formatVersion": "1.0",
     "documents": [
                 {
-            "title": "Chapters 1, 2, 3",
+            "title": "AI Driven-Ch 1,2,3",
             "overviewSubtitle": "Analytic Framework",
             "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
             "description": "Chapter 1: Business Analytics for Professionals; \nChapter 2: Conceptual Framework of Business Analytics; \nChapter 3: Marketing Analytics for Marketing Decision-Making",
-            "difficultyLevel": "intermediate",
+            "difficultyLevel": "Intermediate",
             "contentIdentifier": "io.github.DrJohnHeinrichs.AIDrivenAnalyticsCh123",
             "contentVersion": "1.0",
             "url": "https:\/\/DrJohnHeinrichs.github.io\/AIAnalytics123.playgroundbook.zip",
@@ -28,8 +28,8 @@
                     "value": "2020"
                 },
                 {
-                    "name": "Course",
-                    "value": "ISM 7505: Inbound In"
+                    "name": "Identifier",
+                    "value": "ISBN 978-1-7345382-0-5 (eBook) / ISBN 978-1-7345382-1-2 (Paperback)"
                 },
                 {
                     "name": "Printed Book",
@@ -46,11 +46,11 @@
                 "Ch3.png"
             ]
         },                {
-            "title": "Chapters 4, 5, 6",
+            "title": "AI Driven-Ch 4,5,6",
             "overviewSubtitle": "Analytic Tools",
             "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
             "description": "Chapter 4: Visualization Tools for Marketing Environment Analytics; \nChapter 5: Clustering Tools for Market Segment Analytics; \nChapter 6: Classification Tools for Market Targeting Analytics",
-            "difficultyLevel": "intermediate",
+            "difficultyLevel": "Intermediate",
             "contentIdentifier": "io.github.DrJohnHeinrichs.AIDrivenAnalyticsCh456",
             "contentVersion": "1.0",
             "url": "https:\/\/DrJohnHeinrichs.github.io\/AIAnalytics.playgroundbook.zip",
@@ -68,8 +68,8 @@
                     "value": "2020"
                 },
                 {
-                    "name": "Course",
-                    "value": "ISM 7505: Inbound In"
+                    "name": "Identifier",
+                    "value": "ISBN 978-1-7345382-0-5 (eBook) / ISBN 978-1-7345382-1-2 (Paperback)"
                 },
                 {
                     "name": "Printed Book",
@@ -87,11 +87,11 @@
             ]
         },
                 {
-            "title": "Chapters 7, 8, 9",
+            "title": "AI Driven-Ch 7,8,9",
             "overviewSubtitle": "Analysis Techniques",
             "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
             "description": "Chapter 7: Logistic Regression and Forecasting Tools for Customer Behavior Analytics; \nChapter 8: Market Basket Analysis for CRM Analytics; \nChapter 9: Conjoint Analysis for New Product Design and Development Analytics",
-            "difficultyLevel": "intermediate",
+            "difficultyLevel": "Intermediate",
             "contentIdentifier": "io.github.DrJohnHeinrichs.AIDrivenAnalyticsCh789",
             "contentVersion": "1.0",
             "url": "https:\/\/DrJohnHeinrichs.github.io\/AIAnalytics789.playgroundbook.zip",
@@ -109,8 +109,8 @@
                     "value": "2020"
                 },
                 {
-                    "name": "Course",
-                    "value": "ISM 7505: Inbound In"
+                    "name": "Identifier",
+                    "value": "ISBN 978-1-7345382-0-5 (eBook) / ISBN 978-1-7345382-1-2 (Paperback)"
                 },
                 {
                     "name": "Printed Book",
@@ -128,11 +128,11 @@
             ]
         },
                 {
-            "title": "Chapters 10, 11, 12, 13",
+            "title": "AI Driven-Ch 10,11,12,13",
             "overviewSubtitle": "Content and Site Analytics",
             "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
             "description": "Chapter 10: Uplift Modeling Tools for Integrative Marketing Communication Analytics; \nChapter 11: Text Mining Tools for Post-Purchase Behavior Analytics; \nChapter 12: Digital Marketing Site Analytics; \nChapter 13: Digital Marketing Content and User Interactivity Analytics",
-            "difficultyLevel": "intermediate",
+            "difficultyLevel": "Intermediate",
             "contentIdentifier": "io.github.DrJohnHeinrichs.AIDrivenAnalyticsCh10111213",
             "contentVersion": "1.0",
             "url": "https:\/\/DrJohnHeinrichs.github.io\/AIAnalytics10111213.playgroundbook.zip",
@@ -150,8 +150,8 @@
                     "value": "2020"
                 },
                 {
-                    "name": "Course",
-                    "value": "ISM 7505: Inbound In"
+                    "name": "Identifier",
+                    "value": "ISBN 978-1-7345382-0-5 (eBook) / ISBN 978-1-7345382-1-2 (Paperback)"
                 },
                 {
                     "name": "Printed Book",
