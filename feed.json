@@ -6,7 +6,7 @@
     "formatVersion": "1.0",
     "documents": [
              {
-            "title": "AI Driven-Ch 1,2,3",
+            "title": "AI Driven-Chapters 1,2,&3",
             "overviewSubtitle": "Analytic Framework",
             "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
             "description": "This first part provides an introduction to business analytics, big data, and the application of big data for marketing decisions.  A novel big data and AI driven marketing analytics process model is presented and its step-by-step stages are described in detail.  This new marketing analytics process model forms the foundation of this book.  /n/nChapter 1: Business Analytics for Professionals; \nChapter 2: Conceptual Framework of Business Analytics; \nChapter 3: Marketing Analytics for Marketing Decision-Making",
@@ -45,6 +45,47 @@
                 "Ch2.png",
                 "Ch3.png"
                                  ]
-            }
+            },
+                {
+            "title": "AI Driven-Chapters 4,5,&6",
+            "overviewSubtitle": "Analytic Tools",
+            "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
+            "description": "This part covers how big data and AI driven marketing analytics can be generated and applied to making market exploration, segmentation, targeting, and forecasting decisions.  \n\nChapter 4: Visualization Tools for Marketing Environment Analytics; \nChapter 5: Clustering Tools for Market Segment Analytics; \nChapter 6: Classification Tools for Market Targeting Analytics",
+            "difficultyLevel": "intermediate",
+            "contentIdentifier": "io.github.DrJohnHeinrichs.AIDrivenAnalyticsCh456",
+            "contentVersion": "1.0",
+            "url": "https:\/\/DrJohnHeinrichs.github.io\/AIAnalytics456.playgroundbook.zip",
+            "publishedDate": "2020-04-18T17:00:00+00:00",
+            "lastUpdatedDate": "2020-05-08T09:00:00+00:00",
+            "thumbnailURL": "BD-AI-MD-400by300.png",
+            "bannerImageURL": "Ch456.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                },
+                {
+                    "name": "Copyright",
+                    "value": "2020"
+                },
+                {
+                    "name": "Identifier",
+                    "value": "ISBN 978-1-7345382-0-5 (eBook) / ISBN 978-1-7345382-1-2 (Paperback)"
+                },
+                {
+                    "name": "Printed Book",
+                    "value": "https://www.amazon.com/Big-Data-Driven-Marketing-Analytics-ebook/dp/B084GBDHWP"
+                },
+                {
+                    "name": "Printed Length",
+                    "value": "331 pages"
+                }
+            ],
+            "previewImageURLs": [
+                "Ch4.png",
+                "Ch5.png",
+                "Ch6.png"
+            ]
+        }
         ]
      }
