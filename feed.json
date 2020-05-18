@@ -45,7 +45,8 @@
                 "Ch2.png",
                 "Ch3.png"
             ]
-        },                {
+        },                
+        {
             "title": "AI Driven-Ch 4,5,6",
             "overviewSubtitle": "Analytic Tools",
             "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
@@ -86,7 +87,7 @@
                 "Ch6.png"
             ]
         },
-                {
+        {
             "title": "AI Driven-Ch 7,8,9",
             "overviewSubtitle": "Analysis Techniques",
             "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
@@ -127,7 +128,7 @@
                 "Ch9.png"
             ]
         },
-                {
+        {
             "title": "AI Driven-Ch 10,11,12,13",
             "overviewSubtitle": "Content and Site Analytics",
             "detailSubtitle": "Big Data and AI Driven Marketing Analytics",
